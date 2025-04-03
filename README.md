@@ -12,7 +12,7 @@ The dataset consists of anonymized bank transactions and is provided in the foll
 - train_labels.csv - Contains labels indicating whether a customer became a debtor.
 - test_features.csv - Contains transaction data for external evaluation.
 
-The dataset (raw and processed) can be downloaded from [here]().
+The dataset (raw and processed) can be downloaded from [here](https://drive.google.com/drive/folders/1n9p-D30BjwD-MnJF2OsEux3APTORoHyK?usp=sharing).
 
 ## Project Structure
 ```
